@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 <p>this is file</p>
+=======
+file 3 new
+>>>>>>> html
